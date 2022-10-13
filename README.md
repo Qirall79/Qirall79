@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Walid</h1>
+<h1 align="center">Hi 👋, I'm Walid Belfatmi</h1>
 <h3 align="center">A passionate self-taught developer</h3>
 
 - 🔭 I’m currently working on **LeetCode's Algorithms study plans**
