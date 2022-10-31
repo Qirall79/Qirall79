@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Walid Belfatmi</h1>
 <h3 align="center">A passionate self-taught developer</h3>
 
-- 🔭 I’m currently working on **LeetCode's Algorithms study plans**
+- 🔭 I’m currently working on **a CV builder using React JS**
 
-- 🌱 I’m currently learning **C language, and grinding on LeetCode to dive deeper into Competitive Programming**
+- 🌱 I’m currently learning **React JS, and also working on C projects.**
 
 - 📫 How to reach me **qirall79@gmail.com**
 
