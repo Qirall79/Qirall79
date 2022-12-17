@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Walid Belfatmi</h1>
-<h3 align="center">A passionate self-taught developer</h3>
+![Black Typographic Retro Moon and Astronaut Twitter Header](https://user-images.githubusercontent.com/66278832/208240651-8b7ac6a0-cef3-4f6c-83bf-e7f99d1ef370.png)
+
+<h2 align="left">Welcome to my page !</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qirall79&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
