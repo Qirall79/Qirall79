@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/qirall79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="qirall79" height="30" width="40" /></a>
-<a href="https://twitter.com/qirall_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qirall79" height="30" width="40" /></a>
+<a href="https://twitter.com/reformed_walid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qirall79" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/walid-belfatmi-1587751a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walid-belfatmi-1587751a2" height="30" width="40" /></a>
 <a href="https://fb.com/walid.belfatmi.75033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="walid.belfatmi.75033" height="30" width="40" /></a>
 <a href="https://instagram.com/bored_walid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bored_walid" height="30" width="40" /></a>
