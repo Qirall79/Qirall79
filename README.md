@@ -8,11 +8,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qirall79&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently working on **a CV builder using React JS**
+- 🔭 I’m currently working on **a Facebook Clone called Walidbook**
 
-- 🌱 I’m currently learning **React JS, and also working on C projects.**
+- 🌱 I’m currently learning **ExpressJS with MongoDB**
 
-- 📫 How to reach me **qirall79@gmail.com**
+- 📫 How to reach me **walidbelfatmi.dev@gmail.com**
 
 - ⚡ Fun fact **I think I'm overly sarcastic**
 
