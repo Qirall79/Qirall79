@@ -8,9 +8,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qirall79&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently working on **(Surprise)**
+- 🔭 I’m currently working on **Pawtograph**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **GraphQL**
 
 - 📫 How to reach me **walidbelfatmi.dev@gmail.com**
 
