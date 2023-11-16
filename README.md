@@ -1,9 +1,6 @@
 
 ![Black Typographic Retro Moon and Astronaut Twitter Header](https://user-images.githubusercontent.com/66278832/208240651-8b7ac6a0-cef3-4f6c-83bf-e7f99d1ef370.png)
 
-<h1 align="center">Hi 👋, I'm Walid</h1>
-<h3 align="center">A passionate Full Stack Developer from Morocco</h3>
-
 - 🔭 I’m currently working on **CollHub, the app to find collaborators for your projects**
 
 - 🌱 I’m currently learning **tRPC**
