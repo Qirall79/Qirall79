@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CollHub, the app to find collaborators for your projects**
 
-- 🌱 I’m currently learning **tRPC**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [http://walidbelfatmi.com/](http://walidbelfatmi.com/)
 
