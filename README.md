@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [http://walidbelfatmi.com/](http://walidbelfatmi.com/)
+- 👨‍💻 All of my projects are available at [http://walidbelfatmi.com/](http://walidbelfatmi.tech/)
 
 - 📫 How to reach me **walidbelfatmi.dev@gmail.com**
 
